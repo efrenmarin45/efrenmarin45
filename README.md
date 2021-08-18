@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=efrenmarin45&color=green)
 
-Private Banker turned Software Developer. Problem solving, mentoring, and personal growth are what I aim to achieve everyday as a Software Developer. Having a non-traditional background has allowed me the unique persepective of seeing how important drive and determination can be. I continue my personal growth by helping aspiring developers reach their next level through mentorship and support. I currently volunteer my time actively participating in alumni and self-taught/Bootcamp Grad communities. 
+Bilingual Private Banker turned Software Developer. Problem solving, mentoring, and personal growth are what I aim to achieve everyday as a Software Developer. Having a non-traditional background has allowed me the unique persepective of seeing how important drive and determination can be. I continue my personal growth by helping aspiring developers reach their next level through mentorship and support. I currently volunteer my time actively participating in alumni and self-taught/Bootcamp Grad communities. 
 
 I love to connect with new Developers. If you have any questions, feel free to email me using the "Contact Me" links below 👇
 
@@ -41,7 +41,6 @@ I love to connect with new Developers. If you have any questions, feel free to e
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/efren-marin/)
 [![Github](https://img.shields.io/badge/-Github-purple?style=flat&logo=Github&logoColor=white)](https://github.com/efrenmarin45)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://efren45marin.medium.com/)
-
 
 <br>
 

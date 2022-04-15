@@ -16,7 +16,7 @@ I love to connect with new Developers. If you have any questions, feel free to e
 - Redux and when to use it versus React Hooks
 - Leveraging Canvas API
 
-### 🥅 My goals for 2021 are:
+### 🥅 My goals for 2022 are:
 - Become a better mentor to my peers
 - Bring a project to production from beginning to end as the lead
 - Increase my public commits to my personal projects

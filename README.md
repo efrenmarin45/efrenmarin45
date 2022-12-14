@@ -2,33 +2,35 @@
 
 ![](https://komarev.com/ghpvc/?username=efrenmarin45&color=green)
 
-Bilingual Private Banker turned Software Developer. Problem solving, mentoring, and personal growth are what I aim to achieve everyday as a Software Developer. Having a non-traditional background has allowed me the unique perspective of seeing how important drive and determination can be. I continue my personal growth by helping aspiring developers reach their next level through mentorship and support. I currently volunteer my time actively participating in alumni and self-taught/Bootcamp Grad communities. 
+Software Developer who makes beeps boop. I start the day to achieve problem solving, mentoring, and personal growth as a Software Developer. Having a non-traditional background has allowed me the unique perspective of seeing how important drive and determination can be. I continue my personal growth by helping aspiring developers reach their next level through mentorship and support. I currently volunteer my time actively participating in alumni and self-taught/Bootcamp Grad communities. 
 
 I love to connect with new Developers. If you have any questions, feel free to email me using the "Contact Me" links below 👇
 
 ### 🛠 I’m currently working on:
-- Writing technical documents for our internal tools
-- Assisting Senior Developers with new features
+- Writing internal technical documents for our tools and workflows
+- Developing greenfield projects for the Department of Defense
+- Refactoring legacy code to ES6/modern frameworks
 - Fleshing out passion projects
 
 ### 🌱 I’m currently learning:
 - Typescript
-- Redux and when to use it versus React Hooks
-- Leveraging Canvas API
+- GraphQL
 
-### 🥅 My goals for 2022 are:
-- Become a better mentor to my peers
-- Bring a project to production from beginning to end as the lead
+### 🥅 My goals for 2023 are:
+- Expand my network and attend more developer meetups
+- Continue to lead projects and help onboard junior developers
 - Increase my public commits to my personal projects
+- Continue to publish articles on Medium & Dev.to
+- Learn to ride a motorcycle!
 
 ### 👾 Fun facts:
 - I am a sucker for paranormal shows/movies
-- Enjoyed having board game nights (pre-Covid)
-- Harry Potter nerd
+- Enjoy having board game nights
+- Harry Potter ~~nerd~~ enthusiast
 
 ### 💬 Ask me about:
 - Career changes into tech
-- Mentorship or coffee chats (meetups post-Covid)
+- Mentorship or coffee chats
 - First-generation transitions into tech
 
 ### 😄 Pronouns:

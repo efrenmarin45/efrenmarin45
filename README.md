@@ -31,7 +31,6 @@ I love to connect with new Developers. If you have any questions, feel free to e
 ### 💬 Ask me about:
 - Career changes into tech
 - Mentorship or coffee chats
-- First-generation transitions into tech
 
 ### 😄 Pronouns:
 - He/Him
@@ -39,7 +38,7 @@ I love to connect with new Developers. If you have any questions, feel free to e
 <br>
 
 ### 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:efren45marin@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:efren.dev.marin@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/efren-marin/)
 [![Github](https://img.shields.io/badge/-Github-purple?style=flat&logo=Github&logoColor=white)](https://github.com/efrenmarin45)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://efren45marin.medium.com/)

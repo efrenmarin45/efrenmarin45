@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=efrenmarin45&color=green)
 
-Software Developer who makes beeps go boop. I start the day with the goal to achieve problem solving, mentoring, and personal growth as a Software Developer. Having a non-traditional background has allowed me the unique perspective of seeing how important drive and determination can be. I continue my personal growth by helping aspiring developers reach their next level through guidance and support. I currently volunteer my time actively participating in alumni and self-taught/Bootcamp Grad communities. 
+A software developer who turns beeps into boops – the fun kind of tech wizard! Each day, I look forward to tackling problems, learning from them, and helping others grow along the way. Having taken a non-traditional route into my career, I believe that's given me a cool perspective on how crucial determination and hard work can be.
+My journey of personal growth doesn't stop with me. One of my career pillars is to help lift up new developers. Whether it's through advice or just being there to support, I love helping aspiring devs reach new heights. Right now, you can find me volunteering in groups of folks who've been through coding bootcamps or are part of the alumni network.
+If you're a fellow developer or someone curious about coding, I'm always up for making new connections. Feel free to shoot me an email using those "Contact Me" links below. Let's learn and grow together!
 
 I love to connect with new Developers. If you have any questions, feel free to email me using the "Contact Me" links below 👇
 

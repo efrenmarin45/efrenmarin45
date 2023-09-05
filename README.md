@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=efrenmarin45&color=green)
 
 A software developer who turns beeps into boops – the fun kind of tech wizard! Each day, I look forward to tackling problems, learning from them, and helping others grow along the way. Having taken a non-traditional route into my career, I believe that's given me a cool perspective on how crucial determination and hard work can be.
-My journey of personal growth doesn't stop with me. One of my career pillars is to help lift up new developers. Whether it's through advice or just being there to support, I love helping aspiring devs reach new heights. Right now, you can find me volunteering in groups of folks who've been through coding bootcamps or are part of the alumni network.
+My journey of personal growth doesn't stop with me. One of my career pillars is to help lift up new developers and those around me. Whether it's through advice or just being there to support, I love helping aspiring devs reach new heights. Right now, you can find me volunteering in groups of folks who've been through coding bootcamps or are part of the alumni network.
 I'm always up for making new connections. Let's learn and grow together!
 
 Feel free to reach out me using the "Contact Me" links below 👇

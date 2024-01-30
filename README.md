@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=efrenmarin45&color=green)
 
-A software developer who turns beeps into boops – the fun kind of tech wizard! Each day, I look forward to tackling problems, learning from them, and helping others grow along the way. Having taken a non-traditional route into my career, I believe that's given me a cool perspective on how crucial determination and hard work can be.
-My journey of personal growth doesn't stop with me. One of my career pillars is to help lift up new developers and those around me. Whether it's through advice or just being there to support, I love helping aspiring devs reach new heights. Right now, you can find me volunteering in groups of folks who've been through coding bootcamps or are part of the alumni network.
+A software developer who turns beeps into boops – the fun kind of tech wizard! Each day, I look forward to tackling problems, learning from them, and helping others grow along the way. Having taken a non-traditional route into my career, I believe that's given me a unique perspective on how crucial determination and hard work can be.
+My journey of personal growth doesn't stop with me. One of my career pillars is to help uplift new developers and those around me. 
 I'm always up for making new connections. Let's learn and grow together!
 
 Feel free to reach out me using the links below 👇
@@ -11,19 +11,20 @@ Feel free to reach out me using the links below 👇
 ### 🛠 I’m currently working on:
 - Writing internal technical documents for our tools and workflows
 - Developing greenfield projects for the Department of Defense
-- Refactoring legacy code to ES6/modern frameworks
-- Fleshing out passion projects
+- Refactoring legacy code to take advantage of ES6 features
+- Fleshing out passion projects.
 
 ### 🌱 I’m currently learning:
 - Typescript
 - GraphQL
+- Data Modeling
 
-### 🥅 My goals for 2023 are:
+### 🥅 My goals for 2024 are:
 - Expand my network and attend more developer meetups
-- Continue to lead projects and help onboard junior developers
-- Increase my public commits to my personal projects
+- Continue to lead projects and help create sustainable coding standards
+- Increase and expand the scope of my personal projects
 - Continue to publish articles on Medium & Dev.to
-- Learn to ride a motorcycle!
+- Publish my own robust API
 
 ### 👾 Fun facts:
 - I am a sucker for paranormal shows/movies
@@ -33,6 +34,7 @@ Feel free to reach out me using the links below 👇
 ### 💬 Ask me about:
 - Career changes into tech
 - Mentorship or coffee chats
+- All things tech!
 
 ### 😄 Pronouns:
 - He/Him

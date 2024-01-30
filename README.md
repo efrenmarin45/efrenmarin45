@@ -6,7 +6,7 @@ A software developer who turns beeps into boops – the fun kind of tech wizard!
 My journey of personal growth doesn't stop with me. One of my career pillars is to help uplift new developers and those around me. 
 I'm always up for making new connections. Let's learn and grow together!
 
-Feel free to reach out me using the links below 👇
+Feel free to reach out to me using the links below 👇
 
 ### 🛠 I’m currently working on:
 - Writing internal technical documents for our tools and workflows

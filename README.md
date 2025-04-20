@@ -19,13 +19,6 @@ Feel free to reach out to me using the links below 👇
 - GraphQL
 - Data Modeling
 
-### 🥅 My goals for 2024 are:
-- Expand my network and attend more developer meetups
-- Continue to lead projects and help create sustainable coding standards
-- Increase and expand the scope of my personal projects
-- Continue to publish articles on Medium & Dev.to
-- Publish my own robust API
-
 ### 👾 Fun facts:
 - I am a sucker for paranormal shows/movies
 - Enjoy having board game nights

@@ -12,6 +12,7 @@ Feel free to reach out to me using the links below 👇
 - Writing internal technical documents for our tools and workflows
 - Developing greenfield projects for the Department of Defense
 - Refactoring legacy code to take advantage of ES6 features
+- Refactoring legacy tools
 - Fleshing out passion projects.
 
 ### 🌱 I’m currently learning:
@@ -28,9 +29,6 @@ Feel free to reach out to me using the links below 👇
 - Career changes into tech
 - Mentorship or coffee chats
 - All things tech!
-
-### 😄 Pronouns:
-- He/Him
 
 <br>
 

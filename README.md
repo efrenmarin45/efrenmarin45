@@ -11,19 +11,11 @@ Feel free to reach out to me using the links below 👇
 ### 🛠 I’m currently working on:
 - Writing internal technical documents for our tools and workflows
 - Developing greenfield projects for the Department of Defense
-- Refactoring legacy code to take advantage of ES6 features
 - Refactoring legacy tools
-- Fleshing out passion projects.
-
-### 🌱 I’m currently learning:
-- Typescript
-- GraphQL
-- Data Modeling
 
 ### 👾 Fun facts:
 - I am a sucker for paranormal shows/movies
 - Enjoy having board game nights
-- Harry Potter ~~nerd~~ enthusiast
 
 ### 💬 Ask me about:
 - Career changes into tech
